@@ -1,0 +1,84 @@
+{"id":"2148627","name":"Spring Hill","city":"brisbane","region":"australia","distance_km":0.88,"path":"australia/australia/queensland/brisbane/spring-hill"}
+{"id":"2148649","name":"Spring Field","city":"central-coast","region":"australia","distance_km":0.51,"path":"australia/australia/new-south-wales/central-coast/spring-field"}
+{"id":"2169868","name":"Croydon","city":"ashfield","region":"australia","distance_km":0.79,"path":"australia/australia/new-south-wales/ashfield/croydon"}
+{"id":"2176562","name":"Bay View","city":"pittwater","region":"australia","distance_km":0.76,"path":"australia/australia/new-south-wales/pittwater/bay-view"}
+{"id":"2177509","name":"Auburn South","city":"glenferrie","region":"australia","distance_km":0,"path":"australia/australia/victoria/glenferrie/auburn-south"}
+{"id":"2207474","name":"South Burnie","city":"burnie","region":"australia","distance_km":0.6,"path":"australia/australia/tasmania/burnie/south-burnie"}
+{"id":"2207892","name":"Clifton Gardens","city":"mosman","region":"australia","distance_km":0.87,"path":"australia/australia/new-south-wales/mosman/clifton-gardens"}
+{"id":"6619100","name":"Darling Harbour","city":"sydney","region":"australia","distance_km":0.65,"path":"australia/australia/new-south-wales/sydney/darling-harbour"}
+{"id":"6949386","name":"Warringah","city":"dee-why","region":"australia","distance_km":0.56,"path":"australia/australia/new-south-wales/dee-why/warringah"}
+{"id":"8014922","name":"Ballarat Central","city":"ballarat","region":"australia","distance_km":0.48,"path":"australia/australia/victoria/ballarat/ballarat-central"}
+{"id":"8288551","name":"Northbridge","city":"perth","region":"australia","distance_km":0.55,"path":"australia/australia/western-australia/perth/northbridge"}
+{"id":"8347683","name":"Montello","city":"burnie","region":"australia","distance_km":0.66,"path":"australia/australia/tasmania/burnie/montello"}
+{"id":"8347706","name":"Barangaroo","city":"sydney-central-business-district","region":"australia","distance_km":0.76,"path":"australia/australia/new-south-wales/sydney-central-business-district/barangaroo"}
+{"id":"8347726","name":"Teringie","city":"adelaide-hills","region":"australia","distance_km":0.57,"path":"australia/australia/south-australia/adelaide-hills/teringie"}
+{"id":"8347868","name":"Canberra City","city":"canberra","region":"australia","distance_km":0.27,"path":"australia/australia/australian-capital-territory/canberra/canberra-city"}
+{"id":"8348180","name":"Menzies","city":"mount-isa","region":"australia","distance_km":0.79,"path":"australia/australia/queensland/mount-isa/menzies"}
+{"id":"8348611","name":"Gray","city":"palmerston","region":"australia","distance_km":0.5,"path":"australia/australia/northern-territory/palmerston/gray"}
+{"id":"8348651","name":"Millers Point","city":"sydney-central-business-district","region":"australia","distance_km":0.67,"path":"australia/australia/new-south-wales/sydney-central-business-district/millers-point"}
+{"id":"8348733","name":"Putney","city":"ryde","region":"australia","distance_km":0.82,"path":"australia/australia/new-south-wales/ryde/putney"}
+{"id":"8348882","name":"Logan Central","city":"logan-city","region":"australia","distance_km":0.56,"path":"australia/australia/queensland/logan-city/logan-central"}
+{"id":"8349028","name":"Driver","city":"palmerston","region":"australia","distance_km":0.86,"path":"australia/australia/northern-territory/palmerston/driver"}
+{"id":"8349176","name":"Greenway","city":"tuggeranong","region":"australia","distance_km":0.34,"path":"australia/australia/australian-capital-territory/tuggeranong/greenway"}
+{"id":"8349386","name":"Parramatta Park","city":"cairns","region":"australia","distance_km":0.26,"path":"australia/australia/queensland/cairns/parramatta-park"}
+{"id":"8349409","name":"Glebe","city":"hobart","region":"australia","distance_km":0.53,"path":"australia/australia/tasmania/hobart/glebe"}
+{"id":"8520140","name":"Whyalla Playford","city":"whyalla","region":"australia","distance_km":0.6,"path":"australia/australia/south-australia/whyalla/whyalla-playford"}
+{"id":"9972653","name":"Dawes Point","city":"sydney-central-business-district","region":"australia","distance_km":0.97,"path":"australia/australia/new-south-wales/sydney-central-business-district/dawes-point"}
+{"id":"9972660","name":"Dundas Valley","city":"carlingford","region":"australia","distance_km":0.71,"path":"australia/australia/new-south-wales/carlingford/dundas-valley"}
+{"id":"9972707","name":"Harris Park","city":"parramatta","region":"australia","distance_km":0.69,"path":"australia/australia/new-south-wales/parramatta/harris-park"}
+{"id":"9972982","name":"Palmerston City","city":"palmerston","region":"australia","distance_km":0.78,"path":"australia/australia/northern-territory/palmerston/palmerston-city"}
+{"id":"9973108","name":"Gawler South","city":"gawler","region":"australia","distance_km":0.66,"path":"australia/australia/south-australia/gawler/gawler-south"}
+{"id":"10097515","name":"West Mackay","city":"mackay","region":"australia","distance_km":0.41,"path":"australia/australia/queensland/mackay/west-mackay"}
+{"id":"10103845","name":"Cooks Hill","city":"newcastle","region":"australia","distance_km":0.9,"path":"australia/australia/new-south-wales/newcastle/cooks-hill"}
+{"id":"10103867","name":"Newcastle East","city":"newcastle","region":"australia","distance_km":0.8,"path":"australia/australia/new-south-wales/newcastle/newcastle-east"}
+{"id":"10112331","name":"Wandana Heights","city":"highton","region":"australia","distance_km":0.88,"path":"australia/australia/victoria/highton/wandana-heights"}
+{"id":"10114336","name":"East Tamworth","city":"tamworth","region":"australia","distance_km":0.96,"path":"australia/australia/new-south-wales/tamworth/east-tamworth"}
+{"id":"11523822","name":"Brisbane central business district","city":"brisbane","region":"australia","distance_km":0.38,"path":"australia/australia/queensland/brisbane/brisbane-central-business-district"}
+{"id":"11523824","name":"Perth city centre","city":"perth","region":"australia","distance_km":0.93,"path":"australia/australia/western-australia/perth/perth-city-centre"}
+{"id":"11523830","name":"Mount Isa city centre","city":"mount-isa","region":"australia","distance_km":0.41,"path":"australia/australia/queensland/mount-isa/mount-isa-city-centre"}
+{"id":"11523831","name":"Karratha city centre","city":"karratha","region":"australia","distance_km":0.39,"path":"australia/australia/western-australia/karratha/karratha-city-centre"}
+{"id":"11523833","name":"Bundaberg city centre","city":"bundaberg","region":"australia","distance_km":0.31,"path":"australia/australia/queensland/bundaberg/bundaberg-city-centre"}
+{"id":"11523834","name":"Alice Springs city centre","city":"alice-springs","region":"australia","distance_km":0.2,"path":"australia/australia/northern-territory/alice-springs/alice-springs-city-centre"}
+{"id":"11523835","name":"Rockhampton city centre","city":"rockhampton","region":"australia","distance_km":0.42,"path":"australia/australia/queensland/rockhampton/rockhampton-city-centre"}
+{"id":"11523836","name":"Hobart city centre","city":"hobart","region":"australia","distance_km":0.48,"path":"australia/australia/tasmania/hobart/hobart-city-centre"}
+{"id":"11523837","name":"Toowoomba city centre","city":"toowoomba","region":"australia","distance_km":0.32,"path":"australia/australia/queensland/toowoomba/toowoomba-city-centre"}
+{"id":"11523838","name":"Darwin city centre","city":"darwin","region":"australia","distance_km":0.22,"path":"australia/australia/northern-territory/darwin/darwin-city-centre"}
+{"id":"11523840","name":"Maitland city centre","city":"maitland","region":"australia","distance_km":0.39,"path":"australia/australia/new-south-wales/maitland/maitland-city-centre"}
+{"id":"11523841","name":"Geelong city centre","city":"geelong","region":"australia","distance_km":0.33,"path":"australia/australia/victoria/geelong/geelong-city-centre"}
+{"id":"11523842","name":"Geraldton city centre","city":"geraldton","region":"australia","distance_km":0.16,"path":"australia/australia/western-australia/geraldton/geraldton-city-centre"}
+{"id":"11523843","name":"Bunbury city centre","city":"bunbury","region":"australia","distance_km":0.23,"path":"australia/australia/western-australia/bunbury/bunbury-city-centre"}
+{"id":"11523844","name":"Launceston city centre","city":"launceston","region":"australia","distance_km":0.64,"path":"australia/australia/tasmania/launceston/launceston-city-centre"}
+{"id":"11523845","name":"Bathurst city centre","city":"bathurst","region":"australia","distance_km":0.44,"path":"australia/australia/new-south-wales/bathurst/bathurst-city-centre"}
+{"id":"11523846","name":"Bendigo city centre","city":"bendigo","region":"australia","distance_km":0.15,"path":"australia/australia/victoria/bendigo/bendigo-city-centre"}
+{"id":"11523850","name":"Rockingham city centre","city":"rockingham","region":"australia","distance_km":0.96,"path":"australia/australia/western-australia/rockingham/rockingham-city-centre"}
+{"id":"11703914","name":"Cairns City","city":"cairns","region":"australia","distance_km":0.86,"path":"australia/australia/queensland/cairns/cairns-city"}
+{"id":"11704299","name":"The Hill","city":"newcastle","region":"australia","distance_km":0.22,"path":"australia/australia/new-south-wales/newcastle/the-hill"}
+{"id":"11704328","name":"Barney Point","city":"gladstone","region":"australia","distance_km":0.82,"path":"australia/australia/queensland/gladstone/barney-point"}
+{"id":"12069989","name":"Tamworth city centre","city":"tamworth","region":"australia","distance_km":0.23,"path":"australia/australia/new-south-wales/tamworth/tamworth-city-centre"}
+{"id":"12069990","name":"Albany city centre","city":"albany","region":"australia","distance_km":0.25,"path":"australia/australia/western-australia/albany/albany-city-centre"}
+{"id":"12069991","name":"Busselton city centre","city":"busselton","region":"australia","distance_km":0.4,"path":"australia/australia/western-australia/busselton/busselton-city-centre"}
+{"id":"12069992","name":"Gawler city centre","city":"gawler","region":"australia","distance_km":0.83,"path":"australia/australia/south-australia/gawler/gawler-city-centre"}
+{"id":"12069993","name":"Burnie city centre","city":"burnie","region":"australia","distance_km":0.22,"path":"australia/australia/tasmania/burnie/burnie-city-centre"}
+{"id":"6205088","name":"Avenal","city":"invercargill","region":"australia","distance_km":0.78,"path":"australia/new-zealand/southland/invercargill/avenal"}
+{"id":"6205092","name":"Windsor","city":"invercargill","region":"australia","distance_km":0.79,"path":"australia/new-zealand/southland/invercargill/windsor"}
+{"id":"6214565","name":"Parkside","city":"timaru","region":"australia","distance_km":0.69,"path":"australia/new-zealand/canterbury/timaru/parkside"}
+{"id":"6214597","name":"Seaview","city":"timaru","region":"australia","distance_km":0.96,"path":"australia/new-zealand/canterbury/timaru/seaview"}
+{"id":"6222799","name":"Welbourn","city":"new-plymouth","region":"australia","distance_km":0.9,"path":"australia/new-zealand/taranaki-region/new-plymouth/welbourn"}
+{"id":"6222902","name":"Brooklands","city":"new-plymouth","region":"australia","distance_km":0.77,"path":"australia/new-zealand/taranaki-region/new-plymouth/brooklands"}
+{"id":"6224556","name":"Gonville","city":"whanganui","region":"australia","distance_km":0.71,"path":"australia/new-zealand/manawatu-wanganui/whanganui/gonville"}
+{"id":"6230948","name":"Riverside","city":"whangarei","region":"australia","distance_km":0.94,"path":"australia/new-zealand/northland/whangarei/riverside"}
+{"id":"6230953","name":"Morningside","city":"whangarei","region":"australia","distance_km":0.5,"path":"australia/new-zealand/northland/whangarei/morningside"}
+{"id":"6244842","name":"Homedale","city":"wainuiomata","region":"australia","distance_km":0.18,"path":"australia/new-zealand/wellington-region/wainuiomata/homedale"}
+{"id":"6244862","name":"Waiwhetu","city":"lower-hutt","region":"australia","distance_km":0.57,"path":"australia/new-zealand/wellington-region/lower-hutt/waiwhetu"}
+{"id":"6244866","name":"Waterloo","city":"lower-hutt","region":"australia","distance_km":0.76,"path":"australia/new-zealand/wellington-region/lower-hutt/waterloo"}
+{"id":"6244922","name":"Porirua East","city":"porirua","region":"australia","distance_km":0.99,"path":"australia/new-zealand/wellington-region/porirua/porirua-east"}
+{"id":"6244923","name":"Ranui Heights","city":"porirua","region":"australia","distance_km":0.99,"path":"australia/new-zealand/wellington-region/porirua/ranui-heights"}
+{"id":"6246620","name":"Bluff Hill","city":"napier","region":"australia","distance_km":0.96,"path":"australia/new-zealand/hawke-s-bay-region/napier/bluff-hill"}
+{"id":"6246622","name":"Parkvale","city":"hastings","region":"australia","distance_km":0.09,"path":"australia/new-zealand/hawke-s-bay-region/hastings/parkvale"}
+{"id":"6246623","name":"Mayfair","city":"hastings","region":"australia","distance_km":0.09,"path":"australia/new-zealand/hawke-s-bay-region/hastings/mayfair"}
+{"id":"10173827","name":"Te Aro","city":"wellington","region":"australia","distance_km":0.83,"path":"australia/new-zealand/wellington-region/wellington/te-aro"}
+{"id":"10242941","name":"Timaru Port","city":"timaru","region":"australia","distance_km":0.49,"path":"australia/new-zealand/canterbury/timaru/timaru-port"}
+{"id":"11694544","name":"Wellington Central","city":"wellington","region":"australia","distance_km":0.11,"path":"australia/new-zealand/wellington-region/wellington/wellington-central"}
+{"id":"2086523","name":"Sissiak","city":"madang","region":"australia","distance_km":0.88,"path":"australia/papua-new-guinea/madang-province/madang/sissiak"}
+{"id":"9972503","name":"Toptown","city":"lae","region":"australia","distance_km":0.55,"path":"australia/papua-new-guinea/morobe-province/lae/toptown"}
+{"id":"2106234","name":"Matariu","city":"kola-a","region":"australia","distance_km":0.72,"path":"australia/solomon-islands/honiara/kola-a/matariu"}
