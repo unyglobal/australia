@@ -1,3 +1,8 @@
-// Generated directory metadata; public geographic tree.
-export const directory = Object.freeze({"name":"papua-new-guinea","repository":"australia","path":"papua-new-guinea","depth":1,"children":["bougainville","east-new-britain-province","east-sepik-province","eastern-highlands-province","madang-province","morobe-province","national-capital","oro-province","southern-highlands-province","west-new-britain-province","western-highlands-province","western-province"]});
+// Hierarchical geographic directory module. Children are loaded only on demand.
+export const directory = Object.freeze({"name":"papua-new-guinea","repository":"australia","path":"papua-new-guinea","depth":1,"parent":"","children":["bougainville","east-new-britain-province","east-sepik-province","eastern-highlands-province","madang-province","morobe-province","national-capital","oro-province","southern-highlands-province","west-new-britain-province","western-highlands-province","western-province"]});
+export const childModules = Object.freeze({"bougainville":"./bougainville/bougainville.js","east-new-britain-province":"./east-new-britain-province/east-new-britain-province.js","east-sepik-province":"./east-sepik-province/east-sepik-province.js","eastern-highlands-province":"./eastern-highlands-province/eastern-highlands-province.js","madang-province":"./madang-province/madang-province.js","morobe-province":"./morobe-province/morobe-province.js","national-capital":"./national-capital/national-capital.js","oro-province":"./oro-province/oro-province.js","southern-highlands-province":"./southern-highlands-province/southern-highlands-province.js","west-new-britain-province":"./west-new-britain-province/west-new-britain-province.js","western-highlands-province":"./western-highlands-province/western-highlands-province.js","western-province":"./western-province/western-province.js"});
+export async function loadChild(name) {
+  if (!Object.prototype.hasOwnProperty.call(childModules, name)) throw new RangeError("Unknown child directory: " + name);
+  return import(new URL(childModules[name], import.meta.url).href);
+}
 export default directory;
